@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently pursing my bachelor's degree in computer engineering in VPKBIET, Baramati 📚<br>I like to code using Java as a programming language 💻<br>I am interested in web3.<br>Over 150 total solved problems on leetcode 🔏<br>I am a gamer; I love playing games 🎮<br>I am into travelling and visiting new places 🧳<br><br>
+I'm currently pursing my bachelor's degree in computer engineering in VPKBIET, Baramati 📚<br>I like to code using Java as a programming language 💻<br>I am a web3 
+enthusiastic.<br>Over 150 total solved problems on leetcode 🧑‍💻<br>I am a gamer; I love playing games 🎮<br>I am into travelling and visiting new places 🧳<br><br>
 
 
 ## 🌐 Socials:
