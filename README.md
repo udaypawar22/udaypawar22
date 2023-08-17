@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Uday, a full-time full-stack developer 👨‍💻</div>  
+# <div align="center">I'm Uday, a full-time full-stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on my skills as a web developer   
